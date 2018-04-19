@@ -1,4 +1,4 @@
-FROM node:8.9.1
+FROM node:8
 
 MAINTAINER Leo Dutra <leodutra.br@gmail.com>
 
